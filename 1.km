@@ -1,0 +1,32 @@
+{
+    "root": {
+        "data": {
+            "id": "ch0wn9xy2ns0",
+            "created": 1641707239124,
+            "text": "MainTopic"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ch0wo8dx4ns0",
+                    "created": 1641707314101,
+                    "text": "topic",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ch0wocjtu4o0",
+                    "created": 1641707323166,
+                    "text": "topic",
+                    "layout": null
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-green",
+    "version": "1.4.43"
+}
